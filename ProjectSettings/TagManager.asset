@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - blue_fuel
+  - gold_fuel
+  - red_fuel
+  - Ground
   layers:
   - Default
   - TransparentFX
